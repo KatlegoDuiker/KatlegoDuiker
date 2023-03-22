@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KatlegoDuiker
 - 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning React Native. In future I'm looking at learning Swift with focus on being an iOS developer.
+- 🌱 I’m currently a React Native'r'. In future I'm looking at learning Swift with focus on being an iOS developer.
 - 📫 You can reach me on katcom7@gmail.com
 
 <!---
