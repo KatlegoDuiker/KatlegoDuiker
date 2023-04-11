@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KatlegoDuiker
-- 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently a React Native'r'. In future I'm looking at learning Swift with focus on being an iOS developer.
+- 👀 I’m interested in Web and Mobile Development.
 - 📫 You can reach me on katcom7@gmail.com
+- HTML, CSS, JavaScript, React Native.
 
 <!---
 KatlegoDuiker/KatlegoDuiker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
